@@ -16,6 +16,8 @@ Why this repo?
 
 This github repository is maintained by Manoel Trapier <godzil@godzil.net> for his own project around Gameduino and by the fact there is missing a central repository with all needed file to build/hack your own Gameduino on Internet. James' website will of course store all of thoses files, but they are stored sparses around, and could be difficult to find.
 
+More informations on Gameduino
+-----------------------------
 
 The sound and graphics are definitely old-school, but thanks to the latest FPGA technology, the sprite capabilities are a step above those in machines from the past.
 
@@ -38,7 +40,7 @@ per-voice sine wave or white noise
 sample playback channel
 The adapter is controlled via SPI read/write operations, and looks to the CPU like a 32Kbyte RAM. (Unlike many 8-bit machines, there are no restrictions on when you can access this RAM). There is a handy reference poster showing how the whole system works, and a set of sample programs and library.
 
-../_images/poster.jpg
+[![Poster thumbnail](./doc/images/poster.jpg)](./doc/poster.pdf)
 
 Licensing
 ---------
