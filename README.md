@@ -9,7 +9,7 @@ Gameduino is a game adapter for Arduino - or anything else with an SPI interface
 Legal stuffs
 ------------
 
-This project was created by James Bowman <jamesb@excamera.com>. I strongly recommand you to visit his website first as it always will contain the more recent and official information about the Gameduino.
+This project was created by James Bowman <jamesb@excamera.com>. I strongly recommand you to visit his website first as it always will contain the more recent and official information about the Gameduino: http://excamera.com/sphinx/gameduino/index.html
 
 Why this repo?
 --------------
