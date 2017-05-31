@@ -1,0 +1,4 @@
+sudo python setup.py install || exit
+# python remoteunit.py /dev/ttyUSB0 ; exit
+python unit.py TestGameduino.test_471fcf9e || exit
+# python randoms.py /dev/ttyUSB0

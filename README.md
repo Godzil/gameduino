@@ -42,6 +42,19 @@ The adapter is controlled via SPI read/write operations, and looks to the CPU li
 
 [![Poster thumbnail](./doc/images/poster.jpg)](./doc/poster.pdf)
 
+Contents
+--------
+
+You will find here all the data I've collected about the original Gameduino:
+ - board/	contain the schematic and PCB design for the Gameduino
+ - doc/		Documentation about the Gameduino and j1 CPU
+ - fpga/	The FPGA source for the Gameduino
+ - gd/		The Arduino library for the Gameduino
+ - Python/	A set of tool writen in Python
+ - j1/		The original j1 CPU with it's firmware and FPGA source
+ - j0/		The slightly modified j1 CPU for the Gameduino, as the j0 is part of the Gameduino, only the firmware part is accessible here
+ - archives/    Raw files found on James' website
+
 Licensing
 ---------
 

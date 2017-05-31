@@ -1,0 +1,12 @@
+ADDRESS_SPACE jram RAMB16 [0x00020000:0x00023fff]
+    BUS_BLOCK
+         j1/ram[7].ram [15:14]; 
+         j1/ram[6].ram [13:12]; 
+         j1/ram[5].ram [11:10]; 
+         j1/ram[4].ram [9:8]; 
+         j1/ram[3].ram [7:6]; 
+         j1/ram[2].ram [5:4]; 
+         j1/ram[1].ram [3:2]; 
+         j1/ram[0].ram [1:0]; 
+    END_BUS_BLOCK; 
+END_ADDRESS_SPACE; 

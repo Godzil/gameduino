@@ -1,0 +1,1 @@
+from gameduino.registers import *
