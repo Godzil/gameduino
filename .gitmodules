@@ -1,0 +1,9 @@
+[submodule "gd"]
+	path = gd
+	url = https://github.com/Godzil/gd1.git
+[submodule "j0/firmware"]
+	path = j0/firmware
+	url = https://github.com/Godzil/gd1-sdk.git
+[submodule "fpga/textmode"]
+	path = fpga/textmode
+	url = https://github.com/Godzil/gd-textmode.git
